@@ -18,16 +18,16 @@ The MP4 HD video file will be generated in the `ouput` directory at the end of t
 
 ## Videos created with this skill
 
-Six examples made with this skill. Follow a title to watch on YouTube.
+Six examples made with this skill. Click a thumbnail to watch on YouTube.
 
-| Video | Credits | Duration |
-| --- | --- | --- |
-| [The Math of You](https://youtu.be/TKXSOnVtfWQ) | HN - Suno | 3:25 |
-| [You knew how to fork — take 2](https://youtu.be/b70F1bWZlwE) | @joshcirre | 1:26 |
-| [You knew how to fork](https://youtu.be/Nxhg23_fheY) | @joshcirre | 1:26 |
-| [Upping my P(doom) — remix #2](https://youtu.be/s8PmK6zD5RY) | Remix of donaldjewkes's video remix | 2:22 |
-| [Symphony](https://youtu.be/UGX2KzetGZ0) | Elrosea · Opus 5.5 · SunoAI | — |
-| [Parterre Girl](https://youtu.be/Zqd77QCaa58) | Core Refusal · Opus 5.5 · Suno | — |
+| The Math of You | You knew how to fork — take 2 | You knew how to fork |
+| :---: | :---: | :---: |
+| <a href="https://youtu.be/TKXSOnVtfWQ"><img src="https://github.com/user-attachments/assets/4380f899-d833-428e-9f18-c862612eb1f2" width="240" height="135" alt="The Math of You — HN - Suno"></a> | <a href="https://youtu.be/b70F1bWZlwE"><img src="https://github.com/user-attachments/assets/dfbe390e-0376-4fb4-a3de-f8cc7ca45ccf" width="240" height="135" alt="You knew how to fork — take 2, made with the Claude skill"></a> | <a href="https://youtu.be/Nxhg23_fheY"><img src="https://github.com/user-attachments/assets/3148ab22-4815-4f64-a699-9dc9165cc113" width="240" height="135" alt="You knew how to fork — @joshcirre"></a> |
+| HN - Suno · 3:25 | @joshcirre · 1:26 | @joshcirre · 1:26 |
+| <br> | <br>  | <br>  |
+| **Upping my P(doom) — remix #2** | **Symphony** | **Parterre Girl** |
+| <a href="https://youtu.be/s8PmK6zD5RY"><img src="https://github.com/user-attachments/assets/9d92a515-8e5d-4ff7-bcf2-30927976fe52" width="240" height="135" alt="Upping my P(doom) — Video Remix #2 — Opus 5.5 (et al.)"></a> | <a href="https://youtu.be/UGX2KzetGZ0"><img src="https://github.com/user-attachments/assets/fd931c6e-a83a-4dd3-9179-9e92e81de619" width="240" height="135" alt="Symphony — Elrosea — Opus 5.5 Music Video Motion Graphics Claude Plugin — SunoAI"></a> | <a href="https://youtu.be/Zqd77QCaa58"><img src="https://github.com/user-attachments/assets/a2e48605-910d-46d6-84a2-546730ec60a3" width="240" height="135" alt="Opus 5.5 Animated Video - Parterre Girl by Core Refusal - Suno"></a> |
+| Remix of donaldjewkes's video remix · 2:22 | Elrosea · Opus 5.5 · SunoAI | Core Refusal · Opus 5.5 · Suno |
 
 The repository ships readable source files, including a small SVG icon, with no bundled binary media or fonts. The [icon recreation prompt](docs/icon-generation.md) and [production prompts](.claude/skills/motion-graphics-music-video/references/prompts.md) describe how to create assets in a separate video project. Plugin installation and MCP startup do not download assets or dependencies; project `setup` installs the production dependencies when explicitly run.
 
