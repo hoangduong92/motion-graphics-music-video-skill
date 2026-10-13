@@ -18,7 +18,7 @@ The MP4 HD video file will be generated in the `ouput` directory at the end of t
 
 ## Videos created with this skill
 
-Six examples made with this skill. Click a thumbnail to watch on YouTube.
+Seven examples made with this skill. Click a thumbnail to watch on YouTube.
 
 | The Math of You | You knew how to fork — take 2 | You knew how to fork |
 | :---: | :---: | :---: |
@@ -28,6 +28,10 @@ Six examples made with this skill. Click a thumbnail to watch on YouTube.
 | **Upping my P(doom) — remix #2** | **Symphony** | **Parterre Girl** |
 | <a href="https://youtu.be/s8PmK6zD5RY"><img src="https://github.com/user-attachments/assets/9d92a515-8e5d-4ff7-bcf2-30927976fe52" width="240" height="135" alt="Upping my P(doom) — Video Remix #2 — Opus 5.5 (et al.)"></a> | <a href="https://youtu.be/UGX2KzetGZ0"><img src="https://github.com/user-attachments/assets/fd931c6e-a83a-4dd3-9179-9e92e81de619" width="240" height="135" alt="Symphony — Elrosea — Opus 5.5 Music Video Motion Graphics Claude Plugin — SunoAI"></a> | <a href="https://youtu.be/Zqd77QCaa58"><img src="https://github.com/user-attachments/assets/a2e48605-910d-46d6-84a2-546730ec60a3" width="240" height="135" alt="Opus 5.5 Animated Video - Parterre Girl by Core Refusal - Suno"></a> |
 | Remix of donaldjewkes's video remix · 2:22 | Elrosea · Opus 5.5 · SunoAI | Core Refusal · Opus 5.5 · Suno |
+| <br> | <br>  | <br>  |
+| **Programming is DEAD** |  |  |
+| <a href="https://youtu.be/8b-NPujP_sw"><img src="https://github.com/user-attachments/assets/a975fde9-73b4-4448-bc44-84940652953e" width="240" height="135" alt="Programming is DEAD — Music Video — @makevoid"></a> |  |  |
+| @makevoid · 1:56 |  |  |
 
 The repository ships readable source files, including a small SVG icon, with no bundled binary media or fonts. The [icon recreation prompt](docs/icon-generation.md) and [production prompts](.claude/skills/motion-graphics-music-video/references/prompts.md) describe how to create assets in a separate video project. Plugin installation and MCP startup do not download assets or dependencies; project `setup` installs the production dependencies when explicitly run.
 
